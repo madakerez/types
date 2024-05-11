@@ -5,6 +5,9 @@ declare namespace tellentClient {
         appGuid: string;
         brand: 'kiwi' | 'javelo';
       }
+    
+      type triggerFlow = () => void
+
 }
 
 export as namespace tellentClient;
