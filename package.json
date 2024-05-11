@@ -1,7 +1,7 @@
 {
   "name": "@tellent/client-types",
   "version": "1.0.1",
-  "main": "index.js",
+  "main": "dist/source/index.js",
   "devDependencies": {
     "@tellent/client-types": "workspace:."
   }

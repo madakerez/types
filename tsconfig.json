@@ -14,6 +14,6 @@
         "forceConsistentCasingInFileNames": true
     },
     "files": [
-        "dist/index.d.ts"
+        "dist/source/index.js"
     ]
 }
